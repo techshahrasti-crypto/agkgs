@@ -1,0 +1,8 @@
+{
+  "name": "আয়নাতলী জিনিয়াস কেজি স্কুল - Aynatali Genius KG School",
+  "description": "আয়নাতলী জিনিয়াস কেজি স্কুলের অফিসিয়াল ডায়নামিক ওয়েবসাইট। অনলাইন ভর্তি, নোটিশ বোর্ড, রেজাল্ট অনুসন্ধান, শিক্ষক পরিচিতি ও প্রশাসনিক ব্যবস্থাপনা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
